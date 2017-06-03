@@ -86,3 +86,10 @@
 </head>
 ```
 > A tag meta define metadados sobre o site e, como é uma informação que queremos passar para o navegador, fica no head.
+
+### Exercício 10
+``` html
+<a href="https://github.com/andrealmeid/web-curso"><img src="codigo-fonte.png"></a>
+<a href="https://www.w3schools.com/html/html_headings.asp"><h1>HTML Headings</h1></a>
+```
+> Note como a hierarquia das tags propraga suas propriedades.
