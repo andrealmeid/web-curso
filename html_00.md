@@ -18,7 +18,7 @@ Seus atributos ficam dentro dos `<>`, após o nome e usando o símbolo `=` para 
 #### Conteúdo
 Algumas tags podem possuir algum tipo de conteúdo fora dos `<>`. Para mostrar que esse contéudo pertencem a elas, nós podemos "abrir" e "fechar" as tags para definir seus limites. Exemplo: `<elemento> conteudo </elemento>`. "conteudo" está dentro de `elemento` e usamos `/` no começo de uma tag para diferenciar uma tag de início de uma de fim.
 
-## Hieranquia de Tags
+## Hierarquia de Tags
 Algumas tags podem possuir textos e outras tags dentro delas, dessa forma:
 ```html
 <tag1>
@@ -103,5 +103,10 @@ A linha em HTML que permite isso acontecer é a seguinte:
 <meta charset="utf-8">
 ```
 Onde essa linha deve ser inserida?
+
+### Exercício 10
+Coloque um link para qualquer página que, no lugar do texto, contenha uma imagem.
+Coloque um outro link com algum `<hx>` no lugar do texto.
+
 ## Referências
 [W3Schools.com](https://www.w3schools.com/tags/default.asp)
