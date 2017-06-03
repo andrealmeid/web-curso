@@ -1,3 +1,3 @@
 # Introdução ao WebPaginismo
 ### Uma introdução ao Web Design
-[Introdução](https://github.com/andrealmeid/web-curso/blob/master/html_00.md) e [respostas](https://github.com/andrealmeid/web-curso/blob/master/resp_00.md) dos exercícios.
+- [Introdução](https://andrealmeid.github.io/web-curso/html_00) e [respostas](https://andrealmeid.github.io/web-curso/resp_00) dos exercícios.
